@@ -1,0 +1,13 @@
+# Archivos de configuración con credenciales
+proyecto_hp_admin/config.php
+
+# Archivos grandes
+proyecto_hp_admin/Imagenes/logo.png
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
